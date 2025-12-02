@@ -1,2 +1,3 @@
 Git is version control system
 It is Source code management tool where all developers can store their code
+Git enables version tracking, branching, and seamless teamwork.
