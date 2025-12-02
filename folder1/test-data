@@ -1,2 +1,3 @@
 Repository- A directory where git monitors your project files and records their revision history.
 Clone- It created a local copy of a remote repository on your machine.
+Commit- It records the staged changes as a permanent version in the project history.
