@@ -1,3 +1,0 @@
-welcome to git session 1
-hello Technogeeks
-updated from prvious version
